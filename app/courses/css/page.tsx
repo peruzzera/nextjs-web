@@ -5,7 +5,7 @@ export default function html(){
     return(
         <>
             <Header/>
-            <h1>Curso HTML</h1>
+            <h1>Curso CSS</h1>
             <Footer/>
         </>
     )

@@ -9,29 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "servor": "^4.0.2"
+    "next": "15.3.2"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
+    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "tailwindcss": "^4",
-    "typescript": "^5"
-  },
-  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/peruzzera/nextjs-web.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/peruzzera/nextjs-web/issues"
-  },
-  "homepage": "https://github.com/peruzzera/nextjs-web#readme"
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
 }
